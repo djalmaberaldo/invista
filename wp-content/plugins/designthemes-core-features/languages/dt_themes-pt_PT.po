@@ -1,0 +1,3433 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LMS\n"
+"POT-Creation-Date: 2015-06-16 23:06-0400\n"
+"PO-Revision-Date: 2015-06-16 23:32-0400\n"
+"Last-Translator: Gowthama Siddharth S <gowtham@iamdesigning.com>\n"
+"Language-Team: Designthemes\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../custom-post-types/class/class.WordPress_Radio_Taxonomy.php:133
+msgid "Most Used"
+msgstr ""
+
+#: ../custom-post-types/class/class.WordPress_Radio_Taxonomy.php:184
+#, php-format
+msgid "+ %s"
+msgstr ""
+
+#: ../custom-post-types/class/class.WordPress_Radio_Taxonomy.php:330
+#: ../custom-post-types/class/class.WordPress_Radio_Taxonomy.php:477
+#, php-format
+msgid "No %s"
+msgstr ""
+
+#: ../custom-post-types/class/class.WordPress_Radio_Taxonomy.php:516
+msgid "[more]"
+msgstr ""
+
+#: ../custom-post-types/class/class.WordPress_Radio_Taxonomy.php:517
+msgid "[less]"
+msgstr ""
+
+#: ../custom-post-types/dt-assignments-post-type.php:56
+#: ../custom-post-types/dt-assignments-post-type.php:68
+#: ../custom-post-types/templates/single-dt_courses.php:347
+msgid "Assignments"
+msgstr ""
+
+#: ../custom-post-types/dt-assignments-post-type.php:57
+msgid "All Assignments"
+msgstr ""
+
+#: ../custom-post-types/dt-assignments-post-type.php:58
+#: ../custom-post-types/functions.php:1417
+#: ../custom-post-types/functions.php:1498
+msgid "Assignment"
+msgstr ""
+
+#: ../custom-post-types/dt-assignments-post-type.php:59
+#: ../custom-post-types/dt-certificates-post-type.php:64
+#: ../custom-post-types/dt-courses-post-type.php:69
+#: ../custom-post-types/dt-gradings-post-type.php:85
+#: ../custom-post-types/dt-lessons-post-type.php:84
+#: ../custom-post-types/dt-payments-post-type.php:66
+#: ../custom-post-types/dt-portfolio-post-type.php:73
+#: ../custom-post-types/dt-questions-post-type.php:59
+#: ../custom-post-types/dt-quizes-post-type.php:68
+#: ../custom-post-types/dt-teachers-post-type.php:69
+msgid "Add New"
+msgstr "Adicionar novo"
+
+#: ../custom-post-types/dt-assignments-post-type.php:60
+msgid "Add New Assignment"
+msgstr ""
+
+#: ../custom-post-types/dt-assignments-post-type.php:61
+msgid "Edit Assignment"
+msgstr ""
+
+#: ../custom-post-types/dt-assignments-post-type.php:62
+msgid "New Assignment"
+msgstr ""
+
+#: ../custom-post-types/dt-assignments-post-type.php:63
+#: ../custom-post-types/functions.php:1205
+msgid "View Assignment"
+msgstr ""
+
+#: ../custom-post-types/dt-assignments-post-type.php:64
+msgid "Search Assignments"
+msgstr ""
+
+#: ../custom-post-types/dt-assignments-post-type.php:65
+msgid "No Assignments found"
+msgstr ""
+
+#: ../custom-post-types/dt-assignments-post-type.php:66
+msgid "No Assignments found in Trash"
+msgstr ""
+
+#: ../custom-post-types/dt-assignments-post-type.php:67
+msgid "Parent Assignment:"
+msgstr ""
+
+#: ../custom-post-types/dt-assignments-post-type.php:103
+msgid "Assignment Options"
+msgstr ""
+
+#: ../custom-post-types/dt-certificates-post-type.php:61
+#: ../custom-post-types/dt-certificates-post-type.php:73
+msgid "Certificates"
+msgstr "Certificados"
+
+#: ../custom-post-types/dt-certificates-post-type.php:62
+msgid "All Certificates"
+msgstr "Todos os certificados"
+
+#: ../custom-post-types/dt-certificates-post-type.php:63
+msgid "Certificate"
+msgstr "Certificado"
+
+#: ../custom-post-types/dt-certificates-post-type.php:65
+msgid "Add New Certificate"
+msgstr "Adicionar novo certificado"
+
+#: ../custom-post-types/dt-certificates-post-type.php:66
+msgid "Edit Certificate"
+msgstr "Editar certificado"
+
+#: ../custom-post-types/dt-certificates-post-type.php:67
+msgid "New Certificate"
+msgstr "Novo certificado"
+
+#: ../custom-post-types/dt-certificates-post-type.php:68
+msgid "View Certificate"
+msgstr "Ver certificado"
+
+#: ../custom-post-types/dt-certificates-post-type.php:69
+msgid "Search Certificates"
+msgstr ""
+
+#: ../custom-post-types/dt-certificates-post-type.php:70
+msgid "No Certificates found"
+msgstr ""
+
+#: ../custom-post-types/dt-certificates-post-type.php:71
+msgid "No Certificates found in Trash"
+msgstr ""
+
+#: ../custom-post-types/dt-certificates-post-type.php:72
+msgid "Parent Certificate:"
+msgstr ""
+
+#: ../custom-post-types/dt-certificates-post-type.php:107
+msgid "Certificate Options"
+msgstr ""
+
+#: ../custom-post-types/dt-courses-post-type.php:66
+#: ../custom-post-types/dt-courses-post-type.php:78
+#: ../custom-post-types/dt-statistics.php:16
+#: ../custom-post-types/register-post-types.php:156
+#: ../page-builder/modules.php:1087
+msgid "Courses"
+msgstr "Cursos"
+
+#: ../custom-post-types/dt-courses-post-type.php:67
+#: ../custom-post-types/dt-statistics.php:210
+msgid "All Courses"
+msgstr "Todos os cursos"
+
+#: ../custom-post-types/dt-courses-post-type.php:68
+#: ../custom-post-types/dt-statistics.php:358
+#: ../custom-post-types/dt-statistics.php:552
+#: ../custom-post-types/functions.php:608
+#: ../custom-post-types/functions.php:671
+#: ../custom-post-types/functions.php:1074
+#: ../custom-post-types/functions.php:1239
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:163
+#: ../custom-post-types/metaboxes/dt_payment_default_metabox.php:21
+msgid "Course"
+msgstr "Curso"
+
+#: ../custom-post-types/dt-courses-post-type.php:70
+msgid "Add New Course"
+msgstr "Adicionar novo curso"
+
+#: ../custom-post-types/dt-courses-post-type.php:71
+msgid "Edit Course"
+msgstr "Editar curso"
+
+#: ../custom-post-types/dt-courses-post-type.php:72
+msgid "New Course"
+msgstr "Novo curso"
+
+#: ../custom-post-types/dt-courses-post-type.php:73
+#: ../custom-post-types/templates/single-dt_courses.php:501
+#: ../shortcodes/shortcodes.php:2178
+msgid "View Course"
+msgstr "Ver curso"
+
+#: ../custom-post-types/dt-courses-post-type.php:74
+#: ../page-builder/modules.php:1138 ../shortcodes/shortcodes.php:2291
+msgid "Search Courses"
+msgstr "Pesquisar cursos"
+
+#: ../custom-post-types/dt-courses-post-type.php:75
+msgid "No Courses found"
+msgstr ""
+
+#: ../custom-post-types/dt-courses-post-type.php:76
+msgid "No Courses found in Trash"
+msgstr ""
+
+#: ../custom-post-types/dt-courses-post-type.php:77
+msgid "Parent Course:"
+msgstr ""
+
+#: ../custom-post-types/dt-courses-post-type.php:116
+#: ../custom-post-types/dt-courses-post-type.php:129
+msgid "Course Categories"
+msgstr ""
+
+#: ../custom-post-types/dt-courses-post-type.php:117
+msgid "Course Category"
+msgstr ""
+
+#: ../custom-post-types/dt-courses-post-type.php:118
+msgid "Search Course Categories"
+msgstr ""
+
+#: ../custom-post-types/dt-courses-post-type.php:119
+msgid "Popular Course Categories"
+msgstr ""
+
+#: ../custom-post-types/dt-courses-post-type.php:120
+msgid "All Course Categories"
+msgstr ""
+
+#: ../custom-post-types/dt-courses-post-type.php:121
+#: ../custom-post-types/dt-courses-post-type.php:122
+msgid "Parent Course Category"
+msgstr ""
+
+#: ../custom-post-types/dt-courses-post-type.php:123
+msgid "Edit Course Category"
+msgstr ""
+
+#: ../custom-post-types/dt-courses-post-type.php:124
+msgid "Update Course Category"
+msgstr ""
+
+#: ../custom-post-types/dt-courses-post-type.php:125
+msgid "Add New Course Category"
+msgstr ""
+
+#: ../custom-post-types/dt-courses-post-type.php:126
+msgid "New Course Category"
+msgstr ""
+
+#: ../custom-post-types/dt-courses-post-type.php:127
+#: ../custom-post-types/dt-lessons-post-type.php:142
+msgid "Add or remove"
+msgstr ""
+
+#: ../custom-post-types/dt-courses-post-type.php:128
+#: ../custom-post-types/dt-lessons-post-type.php:143
+msgid "Choose from most used"
+msgstr ""
+
+#: ../custom-post-types/dt-courses-post-type.php:142
+msgid "Courses Options"
+msgstr ""
+
+#: ../custom-post-types/dt-gradings-post-type.php:82
+#: ../custom-post-types/dt-gradings-post-type.php:94
+msgid "Gradings"
+msgstr ""
+
+#: ../custom-post-types/dt-gradings-post-type.php:83
+msgid "All Gradings"
+msgstr ""
+
+#: ../custom-post-types/dt-gradings-post-type.php:84
+msgid "Grading"
+msgstr ""
+
+#: ../custom-post-types/dt-gradings-post-type.php:86
+msgid "Add New Grading"
+msgstr ""
+
+#: ../custom-post-types/dt-gradings-post-type.php:87
+msgid "Edit Grading"
+msgstr ""
+
+#: ../custom-post-types/dt-gradings-post-type.php:88
+msgid "New Grading"
+msgstr ""
+
+#: ../custom-post-types/dt-gradings-post-type.php:89
+msgid "View Grading"
+msgstr ""
+
+#: ../custom-post-types/dt-gradings-post-type.php:90
+msgid "Search Gradings"
+msgstr ""
+
+#: ../custom-post-types/dt-gradings-post-type.php:91
+msgid "No Gradings found"
+msgstr ""
+
+#: ../custom-post-types/dt-gradings-post-type.php:92
+msgid "No Gradings found in Trash"
+msgstr ""
+
+#: ../custom-post-types/dt-gradings-post-type.php:93
+msgid "Parent Grading:"
+msgstr ""
+
+#: ../custom-post-types/dt-gradings-post-type.php:123
+msgid "Grading Options"
+msgstr ""
+
+#: ../custom-post-types/dt-gradings-post-type.php:205
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:124
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:294
+msgid "Graded"
+msgstr ""
+
+#: ../custom-post-types/dt-gradings-post-type.php:207
+msgid "Ungraded"
+msgstr ""
+
+#: ../custom-post-types/dt-lessons-post-type.php:81
+#: ../custom-post-types/dt-lessons-post-type.php:93
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:348
+#: ../custom-post-types/templates/single-dt_courses.php:221
+#: ../custom-post-types/templates/single-dt_courses.php:564
+#: ../shortcodes/shortcodes.php:1922 ../shortcodes/shortcodes.php:2249
+msgid "Lessons"
+msgstr ""
+
+#: ../custom-post-types/dt-lessons-post-type.php:82
+msgid "All Lessons"
+msgstr ""
+
+#: ../custom-post-types/dt-lessons-post-type.php:83
+#: ../custom-post-types/functions.php:1075
+#: ../custom-post-types/functions.php:1240
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:173
+msgid "Lesson"
+msgstr ""
+
+#: ../custom-post-types/dt-lessons-post-type.php:85
+msgid "Add New Lesson"
+msgstr "Adicionar nova aula"
+
+#: ../custom-post-types/dt-lessons-post-type.php:86
+msgid "Edit Lesson"
+msgstr "Editar aula"
+
+#: ../custom-post-types/dt-lessons-post-type.php:87
+msgid "New Lesson"
+msgstr "Nova aula"
+
+#: ../custom-post-types/dt-lessons-post-type.php:88
+msgid "View Lesson"
+msgstr "Ver aula"
+
+#: ../custom-post-types/dt-lessons-post-type.php:89
+msgid "Search Lessons"
+msgstr ""
+
+#: ../custom-post-types/dt-lessons-post-type.php:90
+msgid "No Lessons found"
+msgstr ""
+
+#: ../custom-post-types/dt-lessons-post-type.php:91
+msgid "No Lessons found in Trash"
+msgstr ""
+
+#: ../custom-post-types/dt-lessons-post-type.php:92
+msgid "Parent Lesson:"
+msgstr ""
+
+#: ../custom-post-types/dt-lessons-post-type.php:131
+#: ../custom-post-types/dt-lessons-post-type.php:144
+msgid "Lesson Complexities"
+msgstr ""
+
+#: ../custom-post-types/dt-lessons-post-type.php:132
+msgid "Lesson Complexity"
+msgstr ""
+
+#: ../custom-post-types/dt-lessons-post-type.php:133
+msgid "Search Lesson Complexities"
+msgstr ""
+
+#: ../custom-post-types/dt-lessons-post-type.php:134
+msgid "Popular Lesson Complexities"
+msgstr ""
+
+#: ../custom-post-types/dt-lessons-post-type.php:135
+msgid "All Lesson Complexities"
+msgstr ""
+
+#: ../custom-post-types/dt-lessons-post-type.php:136
+#: ../custom-post-types/dt-lessons-post-type.php:137
+msgid "Parent Lesson Complexity"
+msgstr ""
+
+#: ../custom-post-types/dt-lessons-post-type.php:138
+msgid "Edit Lesson Complexity"
+msgstr ""
+
+#: ../custom-post-types/dt-lessons-post-type.php:139
+msgid "Update Lesson Complexity"
+msgstr ""
+
+#: ../custom-post-types/dt-lessons-post-type.php:140
+msgid "Add New Lesson Complexity"
+msgstr ""
+
+#: ../custom-post-types/dt-lessons-post-type.php:141
+msgid "New Lesson Complexity"
+msgstr ""
+
+#: ../custom-post-types/dt-lessons-post-type.php:157
+msgid "Lesson Options"
+msgstr ""
+
+#: ../custom-post-types/dt-payments-post-type.php:63
+#: ../custom-post-types/dt-payments-post-type.php:75
+msgid "Payments"
+msgstr ""
+
+#: ../custom-post-types/dt-payments-post-type.php:64
+msgid "All Payments"
+msgstr ""
+
+#: ../custom-post-types/dt-payments-post-type.php:65
+msgid "Payment"
+msgstr ""
+
+#: ../custom-post-types/dt-payments-post-type.php:67
+msgid "Add New Payment"
+msgstr ""
+
+#: ../custom-post-types/dt-payments-post-type.php:68
+msgid "Edit Payment"
+msgstr ""
+
+#: ../custom-post-types/dt-payments-post-type.php:69
+msgid "New Payment"
+msgstr ""
+
+#: ../custom-post-types/dt-payments-post-type.php:70
+msgid "View Payment"
+msgstr ""
+
+#: ../custom-post-types/dt-payments-post-type.php:71
+msgid "Search Payments"
+msgstr ""
+
+#: ../custom-post-types/dt-payments-post-type.php:72
+msgid "No Payments found"
+msgstr ""
+
+#: ../custom-post-types/dt-payments-post-type.php:73
+msgid "No Payments found in Trash"
+msgstr ""
+
+#: ../custom-post-types/dt-payments-post-type.php:74
+msgid "Parent Payment:"
+msgstr ""
+
+#: ../custom-post-types/dt-payments-post-type.php:105
+msgid "Payment Options"
+msgstr ""
+
+#: ../custom-post-types/dt-payments.php:15
+msgid "Set Commissions"
+msgstr ""
+
+#: ../custom-post-types/dt-payments.php:16
+msgid "Pay Commissions"
+msgstr ""
+
+#: ../custom-post-types/dt-payments.php:65
+msgid "Commissions / "
+msgstr ""
+
+#: ../custom-post-types/dt-payments.php:133
+#: ../custom-post-types/dt-payments.php:168
+msgid "Please select teaacher!"
+msgstr ""
+
+#: ../custom-post-types/dt-payments.php:138
+#: ../custom-post-types/dt-payments.php:175
+#: ../custom-post-types/dt-statistics.php:359
+#: ../custom-post-types/dt-statistics.php:553
+#: ../custom-post-types/dt-statistics.php:674
+#: ../custom-post-types/dt-teachers-post-type.php:68
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:363
+#: ../custom-post-types/metaboxes/dt_lesson_default_metabox.php:160
+#: ../functions.php:16 ../functions.php:39 ../page-builder/modules.php:1515
+msgid "Teacher"
+msgstr "Instrutor"
+
+#: ../custom-post-types/dt-payments.php:139
+#: ../custom-post-types/dt-payments.php:176
+#: ../custom-post-types/metaboxes/dt_lesson_default_metabox.php:175
+msgid "Select Teacher..."
+msgstr ""
+
+#: ../custom-post-types/dt-payments.php:140
+#: ../custom-post-types/dt-payments.php:177
+#: ../custom-post-types/metaboxes/dt_assignment_default_metabox.php:165
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:285
+#: ../custom-post-types/metaboxes/dt_lesson_default_metabox.php:142
+#: ../custom-post-types/metaboxes/dt_lesson_default_metabox.php:176
+#: ../custom-post-types/metaboxes/dt_lesson_default_metabox.php:255
+msgid "None"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:70
+#: ../custom-post-types/dt-portfolio-post-type.php:82
+msgid "Portfolios"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:71
+msgid "All Portfolios"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:72
+msgid "Portfolio"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:74
+msgid "Add New Portfolio"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:75
+msgid "Edit Portfolio"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:76
+msgid "New Portfolio"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:77
+msgid "View Portfolio"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:78
+msgid "Search Portfolios"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:79
+msgid "No portfolios found"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:80
+msgid "No portfolios found in Trash"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:81
+msgid "Parent Portfolio:"
+msgstr ""
+
+#: ../custom-post-types/dt-portfolio-post-type.php:129
+msgid "Portfolio Options"
+msgstr ""
+
+#: ../custom-post-types/dt-questions-post-type.php:56
+#: ../custom-post-types/dt-questions-post-type.php:68
+msgid "Questions"
+msgstr ""
+
+#: ../custom-post-types/dt-questions-post-type.php:57
+msgid "All Questions"
+msgstr ""
+
+#: ../custom-post-types/dt-questions-post-type.php:58
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:331
+msgid "Question"
+msgstr ""
+
+#: ../custom-post-types/dt-questions-post-type.php:60
+msgid "Add New Question"
+msgstr ""
+
+#: ../custom-post-types/dt-questions-post-type.php:61
+msgid "Edit Question"
+msgstr ""
+
+#: ../custom-post-types/dt-questions-post-type.php:62
+msgid "New Question"
+msgstr ""
+
+#: ../custom-post-types/dt-questions-post-type.php:63
+msgid "View Question"
+msgstr ""
+
+#: ../custom-post-types/dt-questions-post-type.php:64
+msgid "Search Questions"
+msgstr ""
+
+#: ../custom-post-types/dt-questions-post-type.php:65
+msgid "No Questions found"
+msgstr ""
+
+#: ../custom-post-types/dt-questions-post-type.php:66
+msgid "No Questions found in Trash"
+msgstr ""
+
+#: ../custom-post-types/dt-questions-post-type.php:67
+msgid "Parent Question:"
+msgstr ""
+
+#: ../custom-post-types/dt-questions-post-type.php:102
+msgid "Question Options"
+msgstr ""
+
+#: ../custom-post-types/dt-quizes-post-type.php:65
+#: ../custom-post-types/dt-quizes-post-type.php:77
+msgid "Quizes"
+msgstr ""
+
+#: ../custom-post-types/dt-quizes-post-type.php:66
+msgid "All Quizes"
+msgstr ""
+
+#: ../custom-post-types/dt-quizes-post-type.php:67
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:148
+#: ../custom-post-types/metaboxes/dt_lesson_default_metabox.php:238
+msgid "Quiz"
+msgstr ""
+
+#: ../custom-post-types/dt-quizes-post-type.php:69
+msgid "Add New Quiz"
+msgstr ""
+
+#: ../custom-post-types/dt-quizes-post-type.php:70
+msgid "Edit Quiz"
+msgstr ""
+
+#: ../custom-post-types/dt-quizes-post-type.php:71
+msgid "New Quiz"
+msgstr ""
+
+#: ../custom-post-types/dt-quizes-post-type.php:72
+#: ../custom-post-types/functions.php:1136
+msgid "View Quiz"
+msgstr ""
+
+#: ../custom-post-types/dt-quizes-post-type.php:73
+msgid "Search Quizes"
+msgstr ""
+
+#: ../custom-post-types/dt-quizes-post-type.php:74
+msgid "No Quizes found"
+msgstr ""
+
+#: ../custom-post-types/dt-quizes-post-type.php:75
+msgid "No Quizes found in Trash"
+msgstr ""
+
+#: ../custom-post-types/dt-quizes-post-type.php:76
+msgid "Parent Quiz:"
+msgstr ""
+
+#: ../custom-post-types/dt-quizes-post-type.php:111
+msgid "Quiz Options"
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:15
+msgid "Overview"
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:17
+msgid "Students"
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:18
+#: ../custom-post-types/dt-teachers-post-type.php:66
+#: ../custom-post-types/dt-teachers-post-type.php:78
+msgid "Teachers"
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:19
+msgid "Graph"
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:68
+msgid "Total Courses "
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:76
+msgid "Total Lessons "
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:83
+msgid "Total Teachers "
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:114
+msgid "Total Students "
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:142
+msgid "Total Subscribtions "
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:146
+msgid "Total Certificates Issued "
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:150
+msgid "Total Badges Issued "
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:179
+msgid "Student Name"
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:180
+#: ../custom-post-types/dt-statistics.php:245
+#: ../custom-post-types/functions.php:1077
+#: ../custom-post-types/functions.php:1241
+msgid "Status"
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:181
+#: ../custom-post-types/dt-statistics.php:246
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:445
+#: ../page-builder/modules.php:1221
+msgid "Percentage"
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:188
+#: ../custom-post-types/dt-statistics.php:254
+#: ../custom-post-types/dt-statistics.php:312
+#: ../custom-post-types/functions.php:1093
+#: ../custom-post-types/functions.php:1133
+#: ../custom-post-types/functions.php:1187
+#: ../custom-post-types/templates/single-dt_courses.php:151
+#: ../custom-post-types/templates/single-dt_courses.php:293
+#: ../custom-post-types/templates/single-dt_courses.php:372
+#: ../custom-post-types/templates/single-dt_courses.php:541
+#: ../custom-post-types/templates/single-dt_lessons.php:79
+#: ../custom-post-types/templates/single-dt_lessons.php:85
+#: ../custom-post-types/templates/single-dt_lessons.php:239
+msgid "Completed"
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:189
+#: ../custom-post-types/dt-statistics.php:255
+msgid "In Progress"
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:244
+#: ../custom-post-types/dt-statistics.php:310
+#: ../custom-post-types/templates/single-dt_teachers.php:96
+msgid "Course Name"
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:277
+msgid "All Students"
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:311
+msgid "Subscriptions"
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:336
+#: ../custom-post-types/dt-teachers-post-type.php:67
+msgid "All Teachers"
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:360
+#: ../custom-post-types/dt-statistics.php:620 ../functions.php:44
+msgid "Student"
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:367
+msgid "Include course with zero sales"
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:375
+msgid "Include Courses Manually..."
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:391
+msgid "Include teacher with zero submissions"
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:398
+msgid "Include Teachers Manually..."
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:416
+msgid "Include student with zero subsciptions"
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:423
+msgid "Include Students Manually..."
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:440
+msgid "Generate Graph"
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:551
+#: ../custom-post-types/dt-statistics.php:619
+#: ../custom-post-types/dt-statistics.php:673
+#: ../custom-post-types/functions.php:607
+#: ../custom-post-types/functions.php:670
+#: ../custom-post-types/functions.php:1073
+#: ../custom-post-types/functions.php:1238
+#: ../custom-post-types/functions.php:1416
+#: ../custom-post-types/functions.php:1497
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:330
+#: ../custom-post-types/metaboxes/dt_payment_default_metabox.php:20
+msgid "#"
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:554
+msgid "Students Subscribed #"
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:555
+msgid "Students Completed #"
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:556
+msgid "Certificates #"
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:557
+msgid "Badges #"
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:599
+#: ../custom-post-types/dt-statistics.php:655
+#: ../custom-post-types/dt-statistics.php:711
+msgid "No Records Found!"
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:621
+#: ../custom-post-types/dt-statistics.php:675
+msgid "Registered Date"
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:622 ../page-builder/modules.php:1606
+msgid "Subscribed Courses"
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:623
+msgid "Completed Courses"
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:676
+msgid "Courses Submitted"
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:677
+msgid "Assignments Submitted"
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:754
+msgid "Courses Vs Subscriptions (sales)"
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:757
+#: ../custom-post-types/dt-statistics.php:817
+msgid "Total Subscribtions (Sales)"
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:811
+msgid "Teachers Vs Courses Submitted and Courses Total Subscriptions"
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:814
+msgid "Total Courses Submitted"
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:859
+msgid "Students Vs Courses Subscribed and Courses Completed"
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:862
+msgid "Total Courses Subscribed"
+msgstr ""
+
+#: ../custom-post-types/dt-statistics.php:866
+msgid "Courses Completed"
+msgstr ""
+
+#: ../custom-post-types/dt-teachers-post-type.php:70
+msgid "Add New Teacher"
+msgstr ""
+
+#: ../custom-post-types/dt-teachers-post-type.php:71
+msgid "Edit Teacher"
+msgstr ""
+
+#: ../custom-post-types/dt-teachers-post-type.php:72
+msgid "New Teacher"
+msgstr ""
+
+#: ../custom-post-types/dt-teachers-post-type.php:73
+msgid "View Teacher"
+msgstr ""
+
+#: ../custom-post-types/dt-teachers-post-type.php:74
+msgid "Search Teachers"
+msgstr ""
+
+#: ../custom-post-types/dt-teachers-post-type.php:75
+msgid "No Teachers found"
+msgstr ""
+
+#: ../custom-post-types/dt-teachers-post-type.php:76
+msgid "No Teachers found in Trash"
+msgstr ""
+
+#: ../custom-post-types/dt-teachers-post-type.php:77
+msgid "Parent Teacher:"
+msgstr ""
+
+#: ../custom-post-types/dt-teachers-post-type.php:115
+msgid "Teacher Options"
+msgstr ""
+
+#: ../custom-post-types/functions.php:26
+msgid ""
+"You don't have permission to retake this quiz! Please contact teacher for "
+"further clarifications."
+msgstr ""
+
+#: ../custom-post-types/functions.php:30
+msgid ""
+"You have crossed the number of retakes allowed for this quiz, so you can't "
+"retake this quiz."
+msgstr ""
+
+#: ../custom-post-types/functions.php:101
+#: ../custom-post-types/functions.php:913
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:362
+#: ../custom-post-types/metaboxes/dt_question_default_metabox.php:160
+#: ../custom-post-types/templates/single-dt_questions.php:60
+msgid "True"
+msgstr "Verdadeiro"
+
+#: ../custom-post-types/functions.php:102
+#: ../custom-post-types/functions.php:914
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:362
+#: ../custom-post-types/metaboxes/dt_question_default_metabox.php:163
+#: ../custom-post-types/templates/single-dt_questions.php:61
+msgid "False"
+msgstr "Falso"
+
+#: ../custom-post-types/functions.php:127
+#: ../custom-post-types/functions.php:948
+msgid "Mark(s)"
+msgstr ""
+
+#: ../custom-post-types/functions.php:141
+msgid "Complete Quiz"
+msgstr ""
+
+#: ../custom-post-types/functions.php:154
+msgid "Time Remaining"
+msgstr ""
+
+#: ../custom-post-types/functions.php:158
+msgid "MINS"
+msgstr ""
+
+#: ../custom-post-types/functions.php:159
+msgid "SECS"
+msgstr ""
+
+#: ../custom-post-types/functions.php:165
+msgid "Attempt : "
+msgstr ""
+
+#: ../custom-post-types/functions.php:172
+#, php-format
+msgid "You require %s to pass this quiz!"
+msgstr ""
+
+#: ../custom-post-types/functions.php:333
+#, php-format
+msgid "Congratulations! you have passed the quiz by achieving %s"
+msgstr ""
+
+#: ../custom-post-types/functions.php:337
+#, php-format
+msgid "You require %1$s to pass this quiz. Your grade is %2$s"
+msgstr ""
+
+#: ../custom-post-types/functions.php:342
+#, php-format
+msgid "You acquired %s in this quiz."
+msgstr ""
+
+#: ../custom-post-types/functions.php:347
+msgid "Your quiz have been submitted successfully and it will be graded soon!"
+msgstr ""
+
+#: ../custom-post-types/functions.php:349
+msgid ""
+"Your quiz have been submitted successfully and it will be graded soon!<br /> "
+"You have crossed the number of retakes allowed for this quiz, so you can't "
+"retake this quiz."
+msgstr ""
+
+#: ../custom-post-types/functions.php:353
+#: ../custom-post-types/templates/single-dt_assignments.php:186
+#: ../custom-post-types/templates/single-dt_lessons.php:200
+#: ../custom-post-types/templates/single-dt_quizes.php:149
+msgid "Back to "
+msgstr ""
+
+#: ../custom-post-types/functions.php:609
+#: ../custom-post-types/functions.php:673
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:151
+#: ../custom-post-types/metaboxes/dt_payment_default_metabox.php:23
+msgid "Price"
+msgstr ""
+
+#: ../custom-post-types/functions.php:610
+#: ../custom-post-types/functions.php:674
+#: ../custom-post-types/metaboxes/dt_payment_default_metabox.php:24
+msgid "Commission (%)"
+msgstr ""
+
+#: ../custom-post-types/functions.php:645
+#: ../custom-post-types/functions.php:744
+msgid "Save Settings"
+msgstr ""
+
+#: ../custom-post-types/functions.php:672
+#: ../custom-post-types/metaboxes/dt_payment_default_metabox.php:22
+msgid "Purchases"
+msgstr ""
+
+#: ../custom-post-types/functions.php:675
+#, php-format
+msgid "To Pay (%s)"
+msgstr ""
+
+#: ../custom-post-types/functions.php:676
+msgid "Mark As Paid"
+msgstr ""
+
+#: ../custom-post-types/functions.php:740
+#, php-format
+msgid "Total (%s)"
+msgstr ""
+
+#: ../custom-post-types/functions.php:941
+msgid "Answer Explanation : "
+msgstr ""
+
+#: ../custom-post-types/functions.php:1076
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:335
+msgid "Grade"
+msgstr ""
+
+#: ../custom-post-types/functions.php:1078
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:364
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:336
+msgid "Option"
+msgstr ""
+
+#: ../custom-post-types/functions.php:1096
+#: ../custom-post-types/functions.php:1149
+#: ../custom-post-types/functions.php:1195
+msgid "Pending"
+msgstr ""
+
+#: ../custom-post-types/functions.php:1101
+msgid "Not yet purchased"
+msgstr ""
+
+#: ../custom-post-types/functions.php:1102
+#: ../custom-post-types/templates/archive-dt_courses.php:58
+#: ../custom-post-types/templates/single-dt_courses.php:142
+#: ../custom-post-types/templates/single-dt_courses.php:556
+#: ../custom-post-types/templates/taxonomy-course_category.php:60
+#: ../shortcodes/shortcodes.php:1915 ../shortcodes/shortcodes.php:2223
+#: ../shortcodes/shortcodes.php:2239 ../shortcodes/shortcodes.php:2338
+msgid "Free"
+msgstr ""
+
+#: ../custom-post-types/functions.php:1143
+#: ../custom-post-types/functions.php:1190
+msgid "Not yet graded"
+msgstr ""
+
+#: ../custom-post-types/functions.php:1145
+#: ../custom-post-types/templates/single-dt_lessons.php:146
+msgid "Retake Quiz"
+msgstr ""
+
+#: ../custom-post-types/functions.php:1151
+#: ../custom-post-types/templates/single-dt_lessons.php:154
+msgid "Take Quiz"
+msgstr ""
+
+#: ../custom-post-types/functions.php:1218
+msgid "You haven't purchased any course!"
+msgstr ""
+
+#: ../custom-post-types/functions.php:1270
+msgid "You haven't submitted any course!"
+msgstr ""
+
+#: ../custom-post-types/functions.php:1316
+#: ../custom-post-types/templates/single-dt_assignments.php:86
+msgid "Allowed File Types : "
+msgstr ""
+
+#: ../custom-post-types/functions.php:1330
+msgid "Maximum File Size : "
+msgstr ""
+
+#: ../custom-post-types/functions.php:1336
+msgid "<strong>ERROR: </strong>"
+msgstr ""
+
+#: ../custom-post-types/functions.php:1418
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:444
+msgid "Mark"
+msgstr ""
+
+#: ../custom-post-types/functions.php:1472
+msgid " out of "
+msgstr ""
+
+#: ../custom-post-types/functions.php:1480
+#: ../custom-post-types/functions.php:1559
+msgid "No assignemnts found!"
+msgstr ""
+
+#: ../custom-post-types/functions.php:1499
+msgid "Related Course"
+msgstr ""
+
+#: ../custom-post-types/functions.php:1500
+msgid "File Types"
+msgstr ""
+
+#: ../custom-post-types/functions.php:1501
+msgid "File Size (MB)"
+msgstr ""
+
+#: ../custom-post-types/functions.php:1658
+msgid "Manual Complete"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_assignment_default_metabox.php:11
+#: ../custom-post-types/metaboxes/dt_quiz_default_metabox.php:128
+msgid "Subtitle"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_assignment_default_metabox.php:16
+msgid "Add sutitle for your assignment."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_assignment_default_metabox.php:26
+msgid "Maximum Mark"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_assignment_default_metabox.php:31
+msgid "Maximum mark for assignment."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_assignment_default_metabox.php:41
+msgid "Enable Text Area"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_assignment_default_metabox.php:51
+msgid "If you wish you can enable text area for assignment."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_assignment_default_metabox.php:61
+msgid "Enable Attachment"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_assignment_default_metabox.php:71
+msgid "If you wish you can enable attachment for assignment."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_assignment_default_metabox.php:82
+msgid "Attachment Types"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_assignment_default_metabox.php:93
+msgid "Select Attachment Type..."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_assignment_default_metabox.php:104
+msgid "Choose attachment types here."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_assignment_default_metabox.php:115
+msgid "Attachment Size (MB)"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_assignment_default_metabox.php:120
+msgid "Set maximum size for attachment. Set it less than <strong>"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_assignment_default_metabox.php:130
+msgid "Include In Course Evaluation"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_assignment_default_metabox.php:140
+msgid "If you wish you can include this assignment in course evaluation."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_assignment_default_metabox.php:149
+msgid "Assignment Course"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_assignment_default_metabox.php:164
+msgid "Select Assignment Course..."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_assignment_default_metabox.php:174
+msgid "Assign course to this assignment here."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_certificate_default_metabox.php:11
+msgid "Bacground Image"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_certificate_default_metabox.php:16
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:334
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:422
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:435
+msgid "Upload"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_certificate_default_metabox.php:17
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:335
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:423
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:436
+msgid "Remove"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_certificate_default_metabox.php:19
+msgid "Choose background image or pattern for your certificate."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_certificate_default_metabox.php:30
+msgid "Custom Class"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_certificate_default_metabox.php:35
+msgid "Add your custom class name here."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_certificate_default_metabox.php:45
+msgid "Custom CSS"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_certificate_default_metabox.php:50
+msgid "Add your custom CSS here."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_certificate_default_metabox.php:60
+msgid "Enable Print"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_certificate_default_metabox.php:70
+msgid "You can enable print button for your certificate."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_certificate_default_metabox.php:80
+msgid "Shortcode"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_certificate_default_metabox.php:85
+msgid ""
+"<strong>Add below shortcode to make use of default certificate layout</"
+"strong>"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_certificate_default_metabox.php:92
+msgid "Available Types : "
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_certificate_default_metabox.php:94
+msgid ""
+"<strong>Use below shortcode to add certificate content dynamically</strong>"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_certificate_default_metabox.php:97
+msgid "Here instead of * you can replace with following fields, "
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_certificate_default_metabox.php:99
+msgid "To display student name"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_certificate_default_metabox.php:100
+msgid "To display corresponding course name"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_certificate_default_metabox.php:101
+msgid "To display student percentage"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_certificate_default_metabox.php:102
+msgid "To display student email"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_certificate_default_metabox.php:106
+msgid ""
+"You can make use of above shortcode to display relavant data dynamically."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:11
+#: ../custom-post-types/metaboxes/dt_lesson_default_metabox.php:12
+#: ../custom-post-types/metaboxes/dt_portdolio_default_metabox.php:24
+#: ../custom-post-types/metaboxes/dt_quiz_default_metabox.php:12
+#: ../custom-post-types/metaboxes/dt_teacher_default_metabox.php:10
+msgid "Layout"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:25
+#: ../custom-post-types/metaboxes/dt_lesson_default_metabox.php:26
+#: ../custom-post-types/metaboxes/dt_portdolio_default_metabox.php:44
+#: ../custom-post-types/metaboxes/dt_quiz_default_metabox.php:26
+#: ../custom-post-types/metaboxes/dt_teacher_default_metabox.php:24
+msgid "You can choose between a left, right or full width."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:46
+#: ../custom-post-types/metaboxes/dt_lesson_default_metabox.php:47
+#: ../custom-post-types/metaboxes/dt_quiz_default_metabox.php:47
+#: ../custom-post-types/metaboxes/dt_teacher_default_metabox.php:45
+msgid "Disable Every Where Sidebar Left"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:53
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:91
+#: ../custom-post-types/metaboxes/dt_lesson_default_metabox.php:54
+#: ../custom-post-types/metaboxes/dt_lesson_default_metabox.php:92
+#: ../custom-post-types/metaboxes/dt_quiz_default_metabox.php:54
+#: ../custom-post-types/metaboxes/dt_quiz_default_metabox.php:92
+#: ../custom-post-types/metaboxes/dt_teacher_default_metabox.php:52
+#: ../custom-post-types/metaboxes/dt_teacher_default_metabox.php:90
+msgid "Yes! to hide \"Every Where Sidebar\" on this page."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:59
+#: ../custom-post-types/metaboxes/dt_lesson_default_metabox.php:60
+#: ../custom-post-types/metaboxes/dt_quiz_default_metabox.php:60
+#: ../custom-post-types/metaboxes/dt_teacher_default_metabox.php:58
+msgid "Choose Widget Area - Left Sidebar"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:84
+#: ../custom-post-types/metaboxes/dt_lesson_default_metabox.php:85
+#: ../custom-post-types/metaboxes/dt_quiz_default_metabox.php:85
+#: ../custom-post-types/metaboxes/dt_teacher_default_metabox.php:83
+msgid "Disable Every Where Sidebar Right"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:97
+#: ../custom-post-types/metaboxes/dt_lesson_default_metabox.php:98
+#: ../custom-post-types/metaboxes/dt_quiz_default_metabox.php:98
+#: ../custom-post-types/metaboxes/dt_teacher_default_metabox.php:96
+msgid "Choose Widget Area - Right Sidebar"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:125
+#: ../custom-post-types/metaboxes/dt_lesson_default_metabox.php:193
+msgid "Video"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:130
+#: ../custom-post-types/metaboxes/dt_lesson_default_metabox.php:198
+msgid "If you wish! You can add video here."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:138
+msgid "Referrence URL"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:143
+msgid "You can add referrence url for your course here."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:156
+msgid "You can add price for your course here."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:166
+msgid "Featured Course"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:176
+msgid "YES! to make this as featured course."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:186
+#: ../custom-post-types/metaboxes/dt_portdolio_default_metabox.php:106
+msgid "Show Social Share"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:195
+msgid "Would you like to show the social share for this course."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:209
+msgid "Disable Teachers"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:218
+msgid "You can hide the staff details here"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:227
+msgid "Show Related Courses"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:236
+msgid "Would you like to show the related courses."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:248
+msgid "Enable Certificate"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:258
+msgid "Would you like to enable certificate for this course?"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:264
+msgid "Certificate Percentage (%)"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:269
+msgid "Add percentage required to gain this certificate."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:275
+msgid "Certificate Template"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:284
+msgid "Select Certificate Template..."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:294
+msgid "Choose certificate template here."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:301
+msgid "Enable Badge"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:311
+msgid "Would you like to enable badge for this course?"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:317
+msgid "Badge Percentage (%)"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:322
+msgid "Add percentage required to gain this badge."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:328
+msgid "Badge Image"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:338
+msgid "Choose badge_image for your course."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:361
+msgid "S#"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:362
+#: ../page-builder/modules.php:369 ../page-builder/modules.php:456
+#: ../page-builder/modules.php:1058 ../page-builder/modules.php:1136
+#: ../page-builder/modules.php:1188 ../page-builder/modules.php:1251
+#: ../page-builder/modules.php:1279 ../page-builder/modules.php:1307
+#: ../page-builder/modules.php:1496 ../page-builder/modules.php:1555
+#: ../page-builder/modules.php:1625 ../page-builder/modules.php:1644
+#: ../page-builder/modules.php:1676 ../page-builder/modules.php:1695
+#: ../page-builder/modules.php:1714 ../page-builder/modules.php:1733
+#: ../page-builder/modules.php:1752 ../page-builder/modules.php:1771
+msgid "Title"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:384
+#: ../custom-post-types/templates/single-dt_courses.php:592
+#: ../custom-post-types/templates/single-dt_lessons.php:205
+#: ../custom-post-types/templates/single-dt_portfolios.php:70
+#: ../custom-post-types/templates/single-dt_teachers.php:152
+msgid "Edit"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:392
+msgid "No Lessons Found!"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:403
+#: ../custom-post-types/templates/single-dt_assignments.php:166
+msgid "Attachments"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:407
+msgid "Add"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_course_default_metabox.php:441
+msgid "You can add any number of media attachments for this course."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:23
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:159
+msgid "User Name"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:32
+msgid "Assignment Title"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:45
+#: ../custom-post-types/templates/single-dt_assignments.php:153
+msgid "Notes"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:59
+msgid "Attachment"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:73
+#: ../custom-post-types/templates/single-dt_assignments.php:171
+msgid "View Attachment"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:77
+#: ../custom-post-types/templates/single-dt_assignments.php:173
+msgid "No attachments found!"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:86
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:194
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:230
+msgid "Marks Obtained"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:98
+msgid "Maximum Marks"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:111
+msgid "Percentage (%)"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:134
+msgid ""
+"Once you enable this option, then this user can't resubmit this assignemnt "
+"and it will be marked as completed!"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:186
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:443
+msgid "Attempt"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:203
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:239
+msgid "0 (0%)"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:220
+msgid "Passmark Percentage"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:225
+msgid " %"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:250
+msgid "Total Marks"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:260
+#: ../custom-post-types/metaboxes/dt_quiz_default_metabox.php:159
+msgid "Number Of Retakes"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:272
+msgid "Allow Retakes"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:281
+msgid "You can allow user to retake this quiz."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:304
+msgid ""
+"Once you enable this option, this leeson will be marked as completed and "
+"user won't be able to retake quiz!"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:308
+msgid "Reset"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:309
+msgid "Auto Grade"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:314
+msgid "User manaully marked as completed."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:332
+msgid "Answer Options"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:333
+msgid "Correct Answer"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:334
+msgid "User Answer"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_grading_default_metabox.php:439
+msgid "Previous Attempts"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_lesson_default_metabox.php:126
+msgid "Lesson Course"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_lesson_default_metabox.php:141
+msgid "Select Course..."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_lesson_default_metabox.php:151
+msgid "Assign course to this lesson here."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_lesson_default_metabox.php:185
+msgid "Assign teacher to this lesson."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_lesson_default_metabox.php:206
+msgid "Lesson Duration In Minutes"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_lesson_default_metabox.php:211
+msgid "Add duration of this lesson in minutes."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_lesson_default_metabox.php:219
+msgid "Private Lesson"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_lesson_default_metabox.php:230
+msgid ""
+"YES! to mark this lesson as private. This lesson is visible only to the "
+"users who have purchased the course this lesson belongs to."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_lesson_default_metabox.php:254
+msgid "Select Quiz..."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_lesson_default_metabox.php:266
+msgid ""
+"Assign quiz for this lesson. Once quiz assigned it cannot be used for "
+"another lesson."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_payment_default_metabox.php:25
+msgid "Amount ("
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_payment_default_metabox.php:55
+msgid "Total ("
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portdolio_default_metabox.php:9
+msgid "Sub Title"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portdolio_default_metabox.php:16
+msgid "If you wish! You can add sub title."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portdolio_default_metabox.php:55
+msgid "Client Name"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portdolio_default_metabox.php:62
+msgid "If you wish! You can add client name."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portdolio_default_metabox.php:71
+msgid "Website Link"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portdolio_default_metabox.php:78
+msgid "If you wish! You can add client website url."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portdolio_default_metabox.php:88
+msgid "Show Related Projects"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portdolio_default_metabox.php:98
+msgid "Would you like to show the related projects at the bottom"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portdolio_default_metabox.php:115
+msgid "Would you like to show the social share at the bottom"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portdolio_default_metabox.php:123
+msgid "Images"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portdolio_default_metabox.php:127
+msgid "Click Here to Add Images"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_portdolio_default_metabox.php:128
+msgid "Click Here to Add Video"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_question_default_metabox.php:35
+msgid "Question Type"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_question_default_metabox.php:39
+msgid "Multiple Choice"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_question_default_metabox.php:40
+msgid "Multiple Correct"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_question_default_metabox.php:41
+msgid "True / False"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_question_default_metabox.php:42
+msgid "Gap Fill"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_question_default_metabox.php:43
+msgid "Single Line"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_question_default_metabox.php:44
+msgid "Multi Line"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_question_default_metabox.php:46
+msgid "Choose type of question here."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_question_default_metabox.php:56
+msgid "Answers"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_question_default_metabox.php:94
+#: ../custom-post-types/metaboxes/dt_question_default_metabox.php:142
+msgid "Add answer"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_question_default_metabox.php:105
+msgid "Type your answers here and select the correct answer."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_question_default_metabox.php:153
+msgid "Type your answers here and select the correct answers."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_question_default_metabox.php:171
+msgid "Text Before Gap"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_question_default_metabox.php:178
+msgid "Gap"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_question_default_metabox.php:185
+msgid "Text After Gap"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_question_default_metabox.php:214
+msgid "Answer Explanation"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_question_default_metabox.php:218
+msgid "You can provide explanantion for the answer here."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_quiz_default_metabox.php:133
+msgid "Subtitle for this Quiz."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_quiz_default_metabox.php:140
+msgid "Duration"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_quiz_default_metabox.php:145
+msgid "Quiz duration in minutes which enables timer."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_quiz_default_metabox.php:164
+msgid "Number of retakes allowed for student."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_quiz_default_metabox.php:171
+msgid "Post Quiz Message"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_quiz_default_metabox.php:176
+msgid "Message to display once quiz submitted."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_quiz_default_metabox.php:190
+msgid "Randomize Questions"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_quiz_default_metabox.php:200
+msgid ""
+"Would you like to randomize the questions order automatically everytime ?"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_quiz_default_metabox.php:207
+msgid "Enable Auto Evaluation"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_quiz_default_metabox.php:217
+msgid ""
+"Would you like to enable auto evaluate questions ?. Enabling this will grade "
+"quiz automatically and it will mark as completed."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_quiz_default_metabox.php:230
+#: ../custom-post-types/metaboxes/dt_quiz_default_metabox.php:275
+msgid "Add Questions"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_quiz_default_metabox.php:254
+#: ../custom-post-types/metaboxes/dt_quiz_default_metabox.php:286
+msgid "Choose a Question..."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_quiz_default_metabox.php:277
+msgid "You can question along with its mark here."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_quiz_default_metabox.php:280
+msgid "Total Marks : "
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_quiz_default_metabox.php:312
+msgid "Pass Percentage"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_quiz_default_metabox.php:316
+#: ../shortcodes/shortcodes.php:2773
+msgid "%"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_quiz_default_metabox.php:317
+msgid "Pass precentage for this quiz."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_quiz_default_metabox.php:330
+msgid ""
+"<strong>Note:</strong> Once quiz assigned for one lesson, then it cannot be "
+"assigned for another."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_teacher_default_metabox.php:123
+msgid "Allow Comments"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_teacher_default_metabox.php:131
+msgid "YES! to allow comments for this member."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_teacher_default_metabox.php:139
+msgid "Show Social Links"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_teacher_default_metabox.php:146
+msgid "Would you like to show the social share for member."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_teacher_default_metabox.php:154
+msgid "Social Profile"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_teacher_default_metabox.php:194
+#: ../custom-post-types/templates/single-dt_lessons.php:294
+#: ../custom-post-types/templates/single-dt_teachers.php:79
+#: ../functions.php:36 ../page-builder/modules.php:497
+#: ../page-builder/modules.php:969
+msgid "Role"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_teacher_default_metabox.php:199
+msgid "Put member role."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_teacher_default_metabox.php:206
+#: ../custom-post-types/templates/single-dt_lessons.php:298
+#: ../custom-post-types/templates/single-dt_teachers.php:80
+msgid "Website"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_teacher_default_metabox.php:211
+msgid "Put member's website url."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_teacher_default_metabox.php:223
+#: ../custom-post-types/templates/single-dt_lessons.php:299
+#: ../custom-post-types/templates/single-dt_teachers.php:81
+msgid "Experience"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_teacher_default_metabox.php:228
+msgid "Put member's experience."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_teacher_default_metabox.php:236
+msgid "Specialist In"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/dt_teacher_default_metabox.php:241
+msgid "Put member's specialist in."
+msgstr ""
+
+#: ../custom-post-types/register-post-types.php:134
+msgid "Timeout!"
+msgstr ""
+
+#: ../custom-post-types/register-post-types.php:135
+msgid "No Results Found!"
+msgstr ""
+
+#: ../custom-post-types/register-post-types.php:136
+msgid "No enough data to generate graph!"
+msgstr ""
+
+#: ../custom-post-types/register-post-types.php:137
+msgid "Refreshing this quiz page will mark this session as completed."
+msgstr ""
+
+#: ../custom-post-types/register-post-types.php:156
+msgid "Learning Management System"
+msgstr ""
+
+#: ../custom-post-types/templates/archive-dt_courses.php:45
+#: ../custom-post-types/templates/taxonomy-course_category.php:47
+msgid "Filter by :"
+msgstr ""
+
+#: ../custom-post-types/templates/archive-dt_courses.php:47
+#: ../custom-post-types/templates/taxonomy-course_category.php:49
+msgid "All Course Type"
+msgstr ""
+
+#: ../custom-post-types/templates/archive-dt_courses.php:48
+#: ../custom-post-types/templates/taxonomy-course_category.php:50
+msgid "Featured Courses"
+msgstr ""
+
+#: ../custom-post-types/templates/archive-dt_courses.php:50
+#: ../custom-post-types/templates/taxonomy-course_category.php:52
+msgid "Popular Courses"
+msgstr ""
+
+#: ../custom-post-types/templates/archive-dt_courses.php:56
+#: ../custom-post-types/templates/taxonomy-course_category.php:58
+#: ../shortcodes/shortcodes.php:2336
+msgid "All"
+msgstr ""
+
+#: ../custom-post-types/templates/archive-dt_courses.php:57
+#: ../custom-post-types/templates/taxonomy-course_category.php:59
+#: ../shortcodes/shortcodes.php:2337
+msgid "Paid"
+msgstr ""
+
+#: ../custom-post-types/templates/archive-dt_courses.php:63
+#: ../custom-post-types/templates/taxonomy-course_category.php:65
+msgid "Grid"
+msgstr ""
+
+#: ../custom-post-types/templates/archive-dt_courses.php:64
+#: ../custom-post-types/templates/taxonomy-course_category.php:66
+msgid "List"
+msgstr ""
+
+#: ../custom-post-types/templates/archive-dt_lessons.php:69
+#: ../custom-post-types/templates/single-dt_courses.php:102
+#: ../custom-post-types/templates/single-dt_courses.php:104
+#: ../custom-post-types/templates/single-dt_courses.php:106
+#: ../custom-post-types/templates/single-dt_courses.php:252
+#: ../custom-post-types/templates/single-dt_lessons.php:96
+#: ../custom-post-types/templates/single-dt_lessons.php:98
+#: ../custom-post-types/templates/single-dt_lessons.php:100
+#: ../custom-post-types/templates/single-dt_lessons.php:255
+#: ../custom-post-types/templates/single-dt_lessons.php:257
+#: ../custom-post-types/templates/single-dt_lessons.php:259
+#: ../custom-post-types/templates/taxonomy-lesson_complexity.php:69
+msgid " mins "
+msgstr ""
+
+#: ../custom-post-types/templates/archive-dt_teachers.php:132
+#: ../shortcodes/shortcodes.php:1833 ../shortcodes/shortcodes.php:1932
+#: ../shortcodes/shortcodes.php:2275
+msgid "Nothing Found."
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_assignments.php:38
+msgid "Your assignment submitted successfully!"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_assignments.php:41
+msgid "Resubmit Assignment"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_assignments.php:81
+msgid "Upload Assignment : "
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_assignments.php:97
+msgid "Maximum File Upload Size : "
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_assignments.php:97
+msgid "MB"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_assignments.php:104
+msgid "Notes :"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_assignments.php:110
+msgid "Upload Assignment :"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_assignments.php:116
+msgid "Submit Assignment"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_assignments.php:129
+msgid "Your Submission"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_assignments.php:137
+#, php-format
+msgid "You have scored %1$s out of %2$s"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_assignments.php:195
+msgid ""
+"This assignment not yet assigned for any course, please contact your teacher "
+"for futher instructions!"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_assignments.php:201
+msgid "Please login to get access to this assignment"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_certificates.php:19
+msgid "Print"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_courses.php:73
+#: ../shortcodes/shortcodes.php:1667
+msgid "Featured"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_courses.php:104
+#: ../custom-post-types/templates/single-dt_lessons.php:98
+#: ../custom-post-types/templates/single-dt_lessons.php:257
+msgid " hour "
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_courses.php:106
+#: ../custom-post-types/templates/single-dt_lessons.php:100
+#: ../custom-post-types/templates/single-dt_lessons.php:259
+msgid " hours "
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_courses.php:112
+msgid " Lessons"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_courses.php:124
+#: ../custom-post-types/templates/single-dt_courses.php:538
+msgid "Purchased Already"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_courses.php:135
+msgid "You are about to purchase the Course : "
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_courses.php:138
+#: ../custom-post-types/templates/single-dt_lessons.php:323
+#: ../custom-post-types/templates/single-dt_quizes.php:172
+#: ../shortcodes/shortcodes.php:431
+msgid "Purchase Now"
+msgstr "Comprar agora"
+
+#: ../custom-post-types/templates/single-dt_courses.php:172
+msgid "Media Attachments"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_courses.php:189
+msgid "Referrrence URL: "
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_courses.php:206
+msgid "Course Intro Video"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_courses.php:404
+msgid "Staffs"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_courses.php:470
+msgid "Related Courses"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_lessons.php:128
+msgid "Lesson Intro Video"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_lessons.php:148
+#: ../custom-post-types/templates/single-dt_quizes.php:131
+msgid ""
+"You may exceeded number of attempts to retake the quiz or you may not have "
+"permission to retake this quiz!."
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_lessons.php:159
+#: ../custom-post-types/templates/single-dt_lessons.php:177
+#: ../custom-post-types/templates/single-dt_quizes.php:152
+msgid "Please login to get access to the quiz"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_lessons.php:170
+msgid "Mark as Completed"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_lessons.php:192
+msgid "Prev Lesson"
+msgstr "Aula anterior"
+
+#: ../custom-post-types/templates/single-dt_lessons.php:193
+msgid "Next Lesson"
+msgstr "Próxima aula"
+
+#: ../custom-post-types/templates/single-dt_lessons.php:215
+msgid "Course Curriculum"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_lessons.php:282
+msgid "Staff"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_lessons.php:300
+#: ../custom-post-types/templates/single-dt_teachers.php:82
+msgid "Specialist in"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_lessons.php:302
+#: ../shortcodes/shortcodes.php:1564 ../shortcodes/shortcodes.php:1696
+msgid "Read More"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_lessons.php:317
+#: ../custom-post-types/templates/single-dt_quizes.php:166
+msgid "This lesson is marked as private you can't view its content."
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_lessons.php:321
+#, php-format
+msgid ""
+"This lesson is priceable, you have to purchase the course %s to view this "
+"lesson."
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_portfolios.php:53
+msgid "Client"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_portfolios.php:55
+msgid " Category"
+msgstr "Categoria"
+
+#: ../custom-post-types/templates/single-dt_portfolios.php:56
+#: ../shortcodes/shortcodes.php:2829 ../shortcodes/shortcodes.php:2866
+#: ../shortcodes/shortcodes.php:2897
+msgid "Date"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_portfolios.php:60
+msgid "See it Online"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_portfolios.php:82
+msgid "Prev Entry"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_portfolios.php:83
+msgid "Next Entry"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_portfolios.php:93
+msgid "Related Projects"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_quizes.php:116
+msgid ""
+"Your quiz have been graded already, please check your dashboard for futher "
+"details!"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_quizes.php:124
+#: ../custom-post-types/templates/single-dt_quizes.php:140
+msgid "Note: "
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_quizes.php:125
+#: ../custom-post-types/templates/single-dt_quizes.php:141
+#, php-format
+msgid ""
+"You have to complete the quiz in %dmin(s). Timer will be triggered once you "
+"press the \"Start Quiz\" button."
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_quizes.php:128
+#: ../custom-post-types/templates/single-dt_quizes.php:145
+msgid "Start Quiz"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_quizes.php:170
+#, php-format
+msgid "You have to purchase the course %s to get access to this quiz."
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_quizes.php:176
+msgid ""
+"This quiz not yet assigned for any lesson, please contact your teacher for "
+"futher instructions!"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_teachers.php:49
+msgid "About: "
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_teachers.php:91
+msgid "Topics Handling"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_teachers.php:97
+msgid "Lesson Name"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_teachers.php:98
+msgid "Complexity"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_teachers.php:99
+msgid "Length"
+msgstr ""
+
+#: ../custom-post-types/templates/single-dt_teachers.php:147
+msgid "Pages:"
+msgstr ""
+
+#: ../functions.php:38
+msgid "Subscriber"
+msgstr ""
+
+#: ../functions.php:60
+msgid "<strong>ERROR</strong>: You must select role."
+msgstr ""
+
+#: ../functions.php:64
+msgid "<strong>ERROR</strong>: Invalid role."
+msgstr ""
+
+#: ../page-builder/config.php:11
+msgid "Wordpress Editor"
+msgstr ""
+
+#: ../page-builder/config.php:57
+msgid "Permanently delete this module?"
+msgstr ""
+
+#: ../page-builder/config.php:58
+msgid "Permanently delete all modules?"
+msgstr ""
+
+#: ../page-builder/config.php:59
+msgid "Permanently delete this layout?"
+msgstr ""
+
+#: ../page-builder/config.php:60
+msgid "Layout Name"
+msgstr ""
+
+#: ../page-builder/config.php:61
+msgid "Create"
+msgstr ""
+
+#: ../page-builder/config.php:62
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: ../page-builder/config.php:63
+msgid "* new layout will appear under the Sample Layout tab after page update"
+msgstr ""
+
+#: ../page-builder/config.php:64
+msgid "Yes"
+msgstr "Sim"
+
+#: ../page-builder/config.php:65
+msgid "No"
+msgstr "Não"
+
+#: ../page-builder/config.php:66
+msgid "Saving..."
+msgstr "Salvando"
+
+#: ../page-builder/config.php:67
+msgid "Layout Saved."
+msgstr ""
+
+#: ../page-builder/config.php:68
+msgid "Custom CSS Saved."
+msgstr ""
+
+#: ../page-builder/config.php:69
+msgid "Column Options Saved."
+msgstr ""
+
+#: ../page-builder/config.php:70
+msgid "Section Options Saved."
+msgstr ""
+
+#: ../page-builder/functions.php:364 ../page-builder/functions.php:485
+#: ../page-builder/functions.php:539
+msgid "Settings"
+msgstr ""
+
+#: ../page-builder/functions.php:433 ../page-builder/functions.php:493
+#: ../page-builder/functions.php:546 ../page-builder/functions.php:602
+#: ../page-builder/functions.php:689 ../page-builder/functions.php:746
+msgid "Save Changes"
+msgstr ""
+
+#: ../page-builder/functions.php:577
+msgid "Additional Column Options"
+msgstr ""
+
+#: ../page-builder/functions.php:626
+msgid "Fullwidth Section Options"
+msgstr ""
+
+#: ../page-builder/functions.php:711
+msgid "Add Modules"
+msgstr ""
+
+#: ../page-builder/functions.php:742 ../page-builder/metabox.php:20
+msgid "Add Custom CSS"
+msgstr ""
+
+#: ../page-builder/metabox.php:13
+msgid "Clear All"
+msgstr ""
+
+#: ../page-builder/metabox.php:16
+msgid "Create Sample Layout"
+msgstr ""
+
+#: ../page-builder/modules.php:82
+msgid "1 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:86
+msgid "1/2 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:90
+msgid "1/3 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:94
+msgid "1/4 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:98
+msgid "1/5 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:102
+msgid "1/6 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:106
+msgid "2/3 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:110
+msgid "2/5 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:114
+msgid "2/6 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:118
+msgid "3/4 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:122
+msgid "3/5 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:126
+msgid "3/6 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:130
+msgid "4/5 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:134
+msgid "4/6 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:138
+msgid "5/6 Column"
+msgstr ""
+
+#: ../page-builder/modules.php:142
+msgid "Resizable Column"
+msgstr ""
+
+#: ../page-builder/modules.php:147
+msgid "Fullwidth Section"
+msgstr ""
+
+#: ../page-builder/modules.php:151 ../page-builder/modules.php:379
+#: ../page-builder/modules.php:424 ../page-builder/modules.php:570
+#: ../page-builder/modules.php:924 ../page-builder/modules.php:1256
+#: ../page-builder/modules.php:1284 ../page-builder/modules.php:1312
+#: ../page-builder/modules.php:1501
+msgid "Background Color"
+msgstr ""
+
+#: ../page-builder/modules.php:156 ../page-builder/modules.php:231
+msgid "Background Image"
+msgstr ""
+
+#: ../page-builder/modules.php:161
+msgid "Background Opacity"
+msgstr ""
+
+#: ../page-builder/modules.php:166
+msgid "Parallax Effect"
+msgstr ""
+
+#: ../page-builder/modules.php:172
+msgid "Background Repeat"
+msgstr ""
+
+#: ../page-builder/modules.php:178
+msgid "Background Position"
+msgstr ""
+
+#: ../page-builder/modules.php:184
+msgid "Padding Top"
+msgstr ""
+
+#: ../page-builder/modules.php:189
+msgid "Padding Bottom"
+msgstr ""
+
+#: ../page-builder/modules.php:194 ../page-builder/modules.php:389
+#: ../page-builder/modules.php:434 ../page-builder/modules.php:482
+#: ../page-builder/modules.php:534 ../page-builder/modules.php:574
+#: ../page-builder/modules.php:929
+msgid "Text Color"
+msgstr ""
+
+#: ../page-builder/modules.php:199 ../page-builder/modules.php:246
+msgid "CSS Class"
+msgstr ""
+
+#: ../page-builder/modules.php:207
+msgid "Fullwidth Section Video"
+msgstr ""
+
+#: ../page-builder/modules.php:211
+msgid "MP4"
+msgstr ""
+
+#: ../page-builder/modules.php:216
+msgid "WEBM"
+msgstr ""
+
+#: ../page-builder/modules.php:221
+msgid "OGV"
+msgstr ""
+
+#: ../page-builder/modules.php:226
+msgid "Poster Image"
+msgstr ""
+
+#: ../page-builder/modules.php:236
+msgid "Padding Top (in px)"
+msgstr ""
+
+#: ../page-builder/modules.php:241
+msgid "Padding Bottom (in px)"
+msgstr ""
+
+#: ../page-builder/modules.php:259
+msgid "Add Any Content Here"
+msgstr ""
+
+#: ../page-builder/modules.php:264 ../page-builder/modules.php:277
+#: ../page-builder/modules.php:307 ../page-builder/modules.php:348
+#: ../page-builder/modules.php:393 ../page-builder/modules.php:502
+#: ../page-builder/modules.php:544 ../page-builder/modules.php:594
+#: ../page-builder/modules.php:639 ../page-builder/modules.php:670
+#: ../page-builder/modules.php:705 ../page-builder/modules.php:730
+#: ../page-builder/modules.php:800 ../page-builder/modules.php:828
+#: ../page-builder/modules.php:856 ../page-builder/modules.php:884
+#: ../page-builder/modules.php:948 ../page-builder/modules.php:990
+#: ../page-builder/modules.php:1004 ../page-builder/modules.php:1022
+#: ../page-builder/modules.php:1073 ../page-builder/modules.php:1410
+#: ../page-builder/modules.php:1506 ../page-builder/modules.php:1611
+#: ../page-builder/modules.php:1630
+msgid "Content"
+msgstr ""
+
+#: ../page-builder/modules.php:272
+msgid "Accordion Framed"
+msgstr ""
+
+#: ../page-builder/modules.php:302
+msgid "Accordion Default"
+msgstr ""
+
+#: ../page-builder/modules.php:332
+msgid "Animation"
+msgstr ""
+
+#: ../page-builder/modules.php:337
+msgid "Choose Effect"
+msgstr ""
+
+#: ../page-builder/modules.php:343
+msgid "Delay"
+msgstr ""
+
+#: ../page-builder/modules.php:358
+msgid "Titled Box"
+msgstr ""
+
+#: ../page-builder/modules.php:363 ../page-builder/modules.php:407
+#: ../page-builder/modules.php:470 ../page-builder/modules.php:516
+#: ../page-builder/modules.php:558 ../page-builder/modules.php:608
+#: ../page-builder/modules.php:724 ../page-builder/modules.php:770
+#: ../page-builder/modules.php:912 ../page-builder/modules.php:974
+#: ../page-builder/modules.php:1226 ../page-builder/modules.php:1480
+msgid "Type"
+msgstr ""
+
+#: ../page-builder/modules.php:374 ../page-builder/modules.php:1048
+#: ../page-builder/modules.php:1198
+msgid "Fontawesome Icon"
+msgstr ""
+
+#: ../page-builder/modules.php:383 ../page-builder/modules.php:428
+#: ../page-builder/modules.php:486 ../page-builder/modules.php:659
+#: ../page-builder/modules.php:695 ../page-builder/modules.php:918
+msgid "Variation"
+msgstr ""
+
+#: ../page-builder/modules.php:402
+msgid "Button"
+msgstr ""
+
+#: ../page-builder/modules.php:413 ../page-builder/modules.php:583
+#: ../page-builder/modules.php:614 ../page-builder/modules.php:1063
+msgid "Link"
+msgstr ""
+
+#: ../page-builder/modules.php:418
+msgid "Size"
+msgstr ""
+
+#: ../page-builder/modules.php:438 ../page-builder/modules.php:588
+#: ../page-builder/modules.php:629
+msgid "Target"
+msgstr ""
+
+#: ../page-builder/modules.php:444 ../page-builder/modules.php:635
+#: ../page-builder/modules.php:665 ../page-builder/modules.php:701
+#: ../page-builder/modules.php:980 ../page-builder/modules.php:1671
+#: ../page-builder/modules.php:1690 ../page-builder/modules.php:1709
+#: ../page-builder/modules.php:1728 ../page-builder/modules.php:1747
+#: ../page-builder/modules.php:1766
+msgid "Class"
+msgstr ""
+
+#: ../page-builder/modules.php:450
+msgid "Timeline Button"
+msgstr ""
+
+#: ../page-builder/modules.php:465
+msgid "Blockquote"
+msgstr ""
+
+#: ../page-builder/modules.php:476 ../page-builder/modules.php:528
+msgid "Align"
+msgstr ""
+
+#: ../page-builder/modules.php:492
+msgid "Cite"
+msgstr ""
+
+#: ../page-builder/modules.php:511
+msgid "Pullquote"
+msgstr ""
+
+#: ../page-builder/modules.php:522
+msgid "Show Icon"
+msgstr ""
+
+#: ../page-builder/modules.php:539
+msgid "Cite Name"
+msgstr ""
+
+#: ../page-builder/modules.php:553
+msgid "Tooltip"
+msgstr ""
+
+#: ../page-builder/modules.php:564
+msgid "Position"
+msgstr ""
+
+#: ../page-builder/modules.php:578
+msgid "Tooltip Text"
+msgstr ""
+
+#: ../page-builder/modules.php:603
+msgid "Callout Box"
+msgstr ""
+
+#: ../page-builder/modules.php:619
+msgid "Button Label"
+msgstr ""
+
+#: ../page-builder/modules.php:624 ../page-builder/modules.php:1211
+msgid "Icon"
+msgstr ""
+
+#: ../page-builder/modules.php:648
+msgid "Ordered Lists"
+msgstr ""
+
+#: ../page-builder/modules.php:653 ../page-builder/modules.php:689
+msgid "Style"
+msgstr ""
+
+#: ../page-builder/modules.php:684
+msgid "Unordered Lists"
+msgstr ""
+
+#: ../page-builder/modules.php:719
+msgid "Pricing Table"
+msgstr ""
+
+#: ../page-builder/modules.php:765
+msgid "Progress Bar"
+msgstr ""
+
+#: ../page-builder/modules.php:776 ../page-builder/modules.php:1232
+msgid "Color"
+msgstr ""
+
+#: ../page-builder/modules.php:781
+msgid "Value"
+msgstr ""
+
+#: ../page-builder/modules.php:786 ../page-builder/modules.php:934
+#: ../page-builder/modules.php:1237
+msgid "Text"
+msgstr ""
+
+#: ../page-builder/modules.php:795
+msgid "Tabs - Horizontal"
+msgstr ""
+
+#: ../page-builder/modules.php:823
+msgid "Tabs Vertical"
+msgstr ""
+
+#: ../page-builder/modules.php:851
+msgid "Toggle Default"
+msgstr ""
+
+#: ../page-builder/modules.php:879
+msgid "Toggle Framed"
+msgstr ""
+
+#: ../page-builder/modules.php:907
+msgid "Dropcap"
+msgstr ""
+
+#: ../page-builder/modules.php:908
+msgid "Use this module to add dropcap"
+msgstr ""
+
+#: ../page-builder/modules.php:943
+msgid "Team"
+msgstr ""
+
+#: ../page-builder/modules.php:944
+msgid "Use this module to add member"
+msgstr ""
+
+#: ../page-builder/modules.php:959
+msgid "Testimonial"
+msgstr ""
+
+#: ../page-builder/modules.php:960
+msgid "Use this module to add testimonial"
+msgstr ""
+
+#: ../page-builder/modules.php:964
+msgid "Name"
+msgstr ""
+
+#: ../page-builder/modules.php:985 ../page-builder/modules.php:1539
+msgid "Image"
+msgstr ""
+
+#: ../page-builder/modules.php:999
+msgid "Testimonial Carousel"
+msgstr ""
+
+#: ../page-builder/modules.php:1000
+msgid "Use this module to add testimonial carousel"
+msgstr ""
+
+#: ../page-builder/modules.php:1017
+msgid "Clients Carousel"
+msgstr ""
+
+#: ../page-builder/modules.php:1018
+msgid "Use this module to add clients carousel"
+msgstr ""
+
+#: ../page-builder/modules.php:1037
+msgid "Icon Box"
+msgstr ""
+
+#: ../page-builder/modules.php:1038
+msgid "Use this module to add icon box"
+msgstr ""
+
+#: ../page-builder/modules.php:1042
+msgid "Types"
+msgstr ""
+
+#: ../page-builder/modules.php:1053
+msgid "Custom Icon"
+msgstr ""
+
+#: ../page-builder/modules.php:1068
+msgid "Icon Background Color (for type13 only)"
+msgstr ""
+
+#: ../page-builder/modules.php:1088 ../page-builder/modules.php:1152
+msgid "Use this module to add courses"
+msgstr ""
+
+#: ../page-builder/modules.php:1092 ../page-builder/modules.php:1156
+#: ../shortcodes/shortcodes.php:2311 ../shortcodes/shortcodes.php:2313
+msgid "Course Type"
+msgstr ""
+
+#: ../page-builder/modules.php:1098 ../page-builder/modules.php:1162
+#: ../page-builder/modules.php:1337 ../page-builder/modules.php:1387
+#: ../page-builder/modules.php:1526
+msgid "Limit"
+msgstr ""
+
+#: ../page-builder/modules.php:1103 ../page-builder/modules.php:1167
+#: ../page-builder/modules.php:1342
+msgid "Carousel"
+msgstr ""
+
+#: ../page-builder/modules.php:1109 ../page-builder/modules.php:1381
+#: ../page-builder/modules.php:1461
+msgid "Columns"
+msgstr ""
+
+#: ../page-builder/modules.php:1115
+msgid "Layout View"
+msgstr ""
+
+#: ../page-builder/modules.php:1121 ../page-builder/modules.php:1173
+msgid "Categories"
+msgstr ""
+
+#: ../page-builder/modules.php:1131
+msgid "Courses Search"
+msgstr ""
+
+#: ../page-builder/modules.php:1132
+msgid "Use this module to add courses search box"
+msgstr ""
+
+#: ../page-builder/modules.php:1141
+msgid "Posts Per Page"
+msgstr ""
+
+#: ../page-builder/modules.php:1151
+msgid "Courses - Sensei"
+msgstr ""
+
+#: ../page-builder/modules.php:1183
+msgid "Counter"
+msgstr ""
+
+#: ../page-builder/modules.php:1184
+msgid "Use this module to add counter"
+msgstr ""
+
+#: ../page-builder/modules.php:1193
+msgid "Number"
+msgstr ""
+
+#: ../page-builder/modules.php:1206
+msgid "Infographic Bar"
+msgstr ""
+
+#: ../page-builder/modules.php:1216
+msgid "Icon size"
+msgstr ""
+
+#: ../page-builder/modules.php:1246
+msgid "Donut Chart - Small"
+msgstr ""
+
+#: ../page-builder/modules.php:1247
+msgid "Use this module to add small donutchart"
+msgstr ""
+
+#: ../page-builder/modules.php:1261 ../page-builder/modules.php:1289
+#: ../page-builder/modules.php:1317
+msgid "Foreground Color"
+msgstr ""
+
+#: ../page-builder/modules.php:1266 ../page-builder/modules.php:1294
+#: ../page-builder/modules.php:1322
+msgid "Percent"
+msgstr ""
+
+#: ../page-builder/modules.php:1274
+msgid "Donut Chart - Medium"
+msgstr ""
+
+#: ../page-builder/modules.php:1275
+msgid "Use this module to add medium donutchart"
+msgstr ""
+
+#: ../page-builder/modules.php:1302
+msgid "Donut Chart - Large"
+msgstr ""
+
+#: ../page-builder/modules.php:1303
+msgid "Use this module to add large donutchart"
+msgstr ""
+
+#: ../page-builder/modules.php:1332
+msgid "Events"
+msgstr ""
+
+#: ../page-builder/modules.php:1333
+msgid "Use this module to add events list or carousel"
+msgstr ""
+
+#: ../page-builder/modules.php:1353
+msgid "Single Post"
+msgstr ""
+
+#: ../page-builder/modules.php:1354
+msgid "Use this module to display any single post"
+msgstr ""
+
+#: ../page-builder/modules.php:1358
+msgid "Post Id"
+msgstr ""
+
+#: ../page-builder/modules.php:1363 ../page-builder/modules.php:1392
+msgid "Read More Text"
+msgstr ""
+
+#: ../page-builder/modules.php:1368 ../page-builder/modules.php:1397
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../page-builder/modules.php:1376
+msgid "Recent Posts"
+msgstr ""
+
+#: ../page-builder/modules.php:1377
+msgid "Use this module to display recent posts"
+msgstr ""
+
+#: ../page-builder/modules.php:1405
+msgid "Timeline"
+msgstr ""
+
+#: ../page-builder/modules.php:1438
+msgid "Portfolio Item"
+msgstr ""
+
+#: ../page-builder/modules.php:1439
+msgid "Use this module to add individual portfolio items"
+msgstr ""
+
+#: ../page-builder/modules.php:1443
+msgid "Item Id"
+msgstr ""
+
+#: ../page-builder/modules.php:1451
+msgid "Portfolio Items From Category"
+msgstr ""
+
+#: ../page-builder/modules.php:1452
+msgid "Use this module to add portfolio items from category"
+msgstr ""
+
+#: ../page-builder/modules.php:1456
+msgid "Category Id"
+msgstr ""
+
+#: ../page-builder/modules.php:1475
+msgid "Icon Box Colored"
+msgstr ""
+
+#: ../page-builder/modules.php:1486
+msgid "Fontawesome Icons"
+msgstr ""
+
+#: ../page-builder/modules.php:1491
+msgid "Custom Icons"
+msgstr ""
+
+#: ../page-builder/modules.php:1516
+msgid "Use this module to add teacher"
+msgstr ""
+
+#: ../page-builder/modules.php:1520
+msgid "Column"
+msgstr ""
+
+#: ../page-builder/modules.php:1534
+msgid "Plan A Visit Form"
+msgstr ""
+
+#: ../page-builder/modules.php:1535
+msgid "Use this module to add plan a visit form"
+msgstr ""
+
+#: ../page-builder/modules.php:1544
+msgid "Slider Type"
+msgstr ""
+
+#: ../page-builder/modules.php:1550
+msgid "Slider Id"
+msgstr ""
+
+#: ../page-builder/modules.php:1560
+msgid "Submit Text"
+msgstr ""
+
+#: ../page-builder/modules.php:1565
+msgid "Success Message"
+msgstr ""
+
+#: ../page-builder/modules.php:1570
+msgid "Error Message"
+msgstr ""
+
+#: ../page-builder/modules.php:1575
+msgid "Subject"
+msgstr ""
+
+#: ../page-builder/modules.php:1580
+msgid "Admin(Receiver) Email"
+msgstr ""
+
+#: ../page-builder/modules.php:1585
+msgid "Enable Plan a Visit"
+msgstr ""
+
+#: ../page-builder/modules.php:1591
+msgid "Contact Label"
+msgstr ""
+
+#: ../page-builder/modules.php:1596
+msgid "Contact Number"
+msgstr ""
+
+#: ../page-builder/modules.php:1607
+msgid ""
+"Use this module to list users subscribed courses along with his visit count"
+msgstr ""
+
+#: ../page-builder/modules.php:1620
+msgid "Newsletter Section"
+msgstr ""
+
+#: ../page-builder/modules.php:1621
+msgid "Use this module to add newsletter section"
+msgstr ""
+
+#: ../page-builder/modules.php:1627
+msgid "Get in touch with us"
+msgstr ""
+
+#: ../page-builder/modules.php:1639
+msgid "Slider Search"
+msgstr ""
+
+#: ../page-builder/modules.php:1640
+msgid "Use this module to add search box along with image or slider"
+msgstr ""
+
+#: ../page-builder/modules.php:1646
+msgid "We have the largest collection of courses"
+msgstr ""
+
+#: ../page-builder/modules.php:1649
+msgid "Button Title"
+msgstr ""
+
+#: ../page-builder/modules.php:1654
+msgid "Button Link"
+msgstr ""
+
+#: ../page-builder/modules.php:1666
+msgid "Heading 1"
+msgstr ""
+
+#: ../page-builder/modules.php:1667
+msgid "Use this module to add heading 1"
+msgstr ""
+
+#: ../page-builder/modules.php:1685
+msgid "Heading 2"
+msgstr ""
+
+#: ../page-builder/modules.php:1686
+msgid "Use this module to add heading 2"
+msgstr ""
+
+#: ../page-builder/modules.php:1704
+msgid "Heading 3"
+msgstr ""
+
+#: ../page-builder/modules.php:1705
+msgid "Use this module to add heading 3"
+msgstr ""
+
+#: ../page-builder/modules.php:1723
+msgid "Heading 4"
+msgstr ""
+
+#: ../page-builder/modules.php:1724
+msgid "Use this module to add heading 4"
+msgstr ""
+
+#: ../page-builder/modules.php:1742
+msgid "Heading 5"
+msgstr ""
+
+#: ../page-builder/modules.php:1743
+msgid "Use this module to add heading 5"
+msgstr ""
+
+#: ../page-builder/modules.php:1761
+msgid "Heading 6"
+msgstr ""
+
+#: ../page-builder/modules.php:1762
+msgid "Use this module to add heading 6"
+msgstr ""
+
+#: ../page-builder/modules.php:1780
+msgid "Address"
+msgstr ""
+
+#: ../page-builder/modules.php:1781
+msgid "Use this module to add address"
+msgstr ""
+
+#: ../page-builder/modules.php:1785
+msgid "Line 1"
+msgstr ""
+
+#: ../page-builder/modules.php:1790
+msgid "Line 2"
+msgstr ""
+
+#: ../page-builder/modules.php:1795
+msgid "Line 3"
+msgstr ""
+
+#: ../page-builder/modules.php:1800
+msgid "Line 4"
+msgstr ""
+
+#: ../page-builder/modules.php:1808 ../page-builder/modules.php:1813
+msgid "Phone"
+msgstr ""
+
+#: ../page-builder/modules.php:1809
+msgid "Use this module to add phone number alone"
+msgstr ""
+
+#: ../page-builder/modules.php:1821 ../page-builder/modules.php:1826
+msgid "Mobile"
+msgstr ""
+
+#: ../page-builder/modules.php:1822
+msgid "Use this module to add mobile number alone"
+msgstr ""
+
+#: ../page-builder/modules.php:1834 ../page-builder/modules.php:1839
+msgid "Fax"
+msgstr ""
+
+#: ../page-builder/modules.php:1835
+msgid "Use this module to add fax alone"
+msgstr ""
+
+#: ../page-builder/modules.php:1847 ../page-builder/modules.php:1852
+msgid "Email"
+msgstr ""
+
+#: ../page-builder/modules.php:1848
+msgid "Use this module to add email alone"
+msgstr ""
+
+#: ../page-builder/modules.php:1860
+msgid "Web"
+msgstr ""
+
+#: ../page-builder/modules.php:1861
+msgid "Use this module to add web alone"
+msgstr ""
+
+#: ../page-builder/modules.php:1865
+msgid "URL"
+msgstr ""
+
+#: ../page-builder/modules.php:1873
+msgid "Clear"
+msgstr ""
+
+#: ../page-builder/modules.php:1874
+msgid "Add this module to add space between contents"
+msgstr ""
+
+#: ../page-builder/modules.php:1880
+msgid "Bordered Horizontal Rule"
+msgstr ""
+
+#: ../page-builder/modules.php:1881
+msgid "Use this module to add bordered horizontal rule"
+msgstr ""
+
+#: ../page-builder/modules.php:1887
+msgid "Horizontal Rule"
+msgstr ""
+
+#: ../page-builder/modules.php:1888
+msgid "Use this module to add horizontal rule"
+msgstr ""
+
+#: ../page-builder/modules.php:1894
+msgid "Horizontal Rule Medium"
+msgstr ""
+
+#: ../page-builder/modules.php:1895
+msgid "Use this module to add medium horizontal rule"
+msgstr ""
+
+#: ../page-builder/modules.php:1901
+msgid "Horizontal Rule Large"
+msgstr ""
+
+#: ../page-builder/modules.php:1902
+msgid "Use this module to add large horizontal rule"
+msgstr ""
+
+#: ../page-builder/modules.php:1908
+msgid "Horizontal Rule With Top Link"
+msgstr ""
+
+#: ../page-builder/modules.php:1909
+msgid "Use this module to add horizontal rule with top link"
+msgstr ""
+
+#: ../page-builder/modules.php:1915
+msgid "Whitespace"
+msgstr ""
+
+#: ../page-builder/modules.php:1916
+msgid "Use this module to add whitespace"
+msgstr ""
+
+#: ../page-builder/modules.php:1922
+msgid "Whitespace Small"
+msgstr ""
+
+#: ../page-builder/modules.php:1923
+msgid "Use this module to add small whitespace"
+msgstr ""
+
+#: ../page-builder/modules.php:1929
+msgid "Whitespace Medium"
+msgstr ""
+
+#: ../page-builder/modules.php:1930
+msgid "Use this module to add medium whitespace"
+msgstr ""
+
+#: ../page-builder/modules.php:1936
+msgid "Whitespace Large"
+msgstr ""
+
+#: ../page-builder/modules.php:1937
+msgid "Use this module to add large whitespace"
+msgstr ""
+
+#: ../page-builder/pagebuilder.php:69
+#: ../page-builder/register-page-builder.php:118
+msgid " Page Builder"
+msgstr ""
+
+#: ../page-builder/pagebuilder.php:233
+msgid "Enable page builder"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:700
+msgid "top"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:885
+msgid "Heading"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:889
+msgid "Buy Now"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:1292 ../shortcodes/shortcodes.php:1294
+#: ../shortcodes/shortcodes.php:1393 ../shortcodes/shortcodes.php:1395
+#: ../shortcodes/shortcodes.php:1403
+msgid "portfolio"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:1322
+msgid "There is no portfolio item with id :"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:1327
+msgid "Please give portfolio post id"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:1426
+msgid "No portfolios in given category"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:1834 ../shortcodes/shortcodes.php:1933
+#: ../shortcodes/shortcodes.php:2276
+msgid "Apologies, but no results were found for the requested archive."
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2037
+msgid " + Google Map "
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2327 ../shortcodes/shortcodes.php:2329
+msgid "Sub Course Type"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2334
+msgid "Cost Type"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2343
+msgid "Search Text"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2351
+msgid "Webinar"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2354
+msgid "Search"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2375 ../shortcodes/shortcodes.php:2429
+msgid "Plan a Visit"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2376
+msgid "Submit"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2377
+msgid "Thanks for subscribing, we will contact you soon."
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2378
+msgid "Mail not sent, please try again Later."
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2379
+msgid "Subscription"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2382
+msgid "Inquiries"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2412
+msgid "Full Name (required)"
+msgstr "Nome completo (obrigatório )"
+
+#: ../shortcodes/shortcodes.php:2413
+msgid "Email (required)"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2419
+msgid "Preferred Courses"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2431
+msgid "Date Time"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2532
+msgid "Hi "
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2536
+msgid "Courses you have subscribed so far,"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2565
+msgid "Your Email Address"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2567
+msgid "Subscribe"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2575
+msgid ""
+"Success! Check your inbox or spam folder for a message containing a "
+"confirmation link."
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2577
+msgid "Error:"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2610
+msgid "Search Course"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2818 ../shortcodes/shortcodes.php:2852
+msgid "Certificate Logo Left"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2819
+msgid "Certificate Logo Right"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2835
+msgid "Certificate Logo Bottom"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2840 ../shortcodes/shortcodes.php:2871
+#: ../shortcodes/shortcodes.php:2902
+msgid "Authorized Signature"
+msgstr ""
+
+#: ../shortcodes/shortcodes.php:2841 ../shortcodes/shortcodes.php:2872
+#: ../shortcodes/shortcodes.php:2903
+msgid "Authorized Signature - "
+msgstr ""
